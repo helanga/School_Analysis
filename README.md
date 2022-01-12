@@ -26,3 +26,11 @@ Although the school board does not know the full extent of the academic dishones
 Maria requested me to replace the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact. 
 
 After replacing math and reading scores, I repeated the school district analysis that I did earlier and wrote a report to describe how these changes affected the overall analysis.
+
+## Results
+
+- How is the district summary affected?
+- 
+ Before Removing Thomas High School 9th grade records District Summery Report:
+ 
+  ![](Resources\images\District_summery)
