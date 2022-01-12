@@ -36,6 +36,6 @@ After replacing math and reading scores, I repeated the school district analysis
    ![](Resources/District_summery.PNG)
    - After removing Thomas High School 9th grade records District Summery:
    
-   ![](Resources\images\Repeated_District_summery)
+   ![](Resources/Repeated_District_summery.PNG)
    
   
