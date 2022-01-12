@@ -19,3 +19,10 @@ First part of the analysis I completed below list of actions:
   - School performance based on the school size 
   - School performance based on the type of school
  
+After completing above modules, the school board has notified Maria and her supervisor that the students_complete.csv file shows evidence of academic dishonesty; specifically, on reading and math grades for Thomas High School ninth graders appear to have been altered. 
+
+Although the school board does not know the full extent of the academic dishonesty, they want to uphold state-testing standards and have turned to Maria for help. 
+
+Maria requested me to replace the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact. 
+
+After replacing math and reading scores, I repeated the school district analysis that I did earlier and wrote a report to describe how these changes affected the overall analysis.
