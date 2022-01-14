@@ -28,7 +28,7 @@ Maria requested me to replace the math and reading scores for Thomas High School
 After replacing math and reading scores, I repeated the school district analysis that I did earlier and wrote a report to describe how these changes affected the overall analysis.
 
 ## Results
-In this analyssis ,Before replacing 9th grade Records Analysis is in code "PyCitySchools.ipynb" and After replacing code is in PyCitySchools_challenge.ipnyb"
+In this analyssis ,Before replacing 9th grade Records Analysis is in code "PyCitySchools.ipynb" and After replacing records code is in PyCitySchools_challenge.ipnyb"
 - How is the district summary affected?
 
   - Before Removing Thomas High School 9th grade records District Summery Report:
@@ -42,20 +42,31 @@ In this analyssis ,Before replacing 9th grade Records Analysis is in code "PyCit
 
 - How is the school summary affected?
 
-  - School Summery Report before removing Thomas High School 9th grade records
+  -  school summery  after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
  
-  ![](Resources/PerSchoolSummeryaftRepeating.PNG)
+  ![](Resources/PerSchoolSummerybefRepeating.PNG)
   
- - School Summery Report after removing Thomas High School 9th grade records
+ - If comparing above two reports we can see there is significant derop in thomas High school's Passing Math%,Passing Reading% & Overall Passing precentages.
  
-   ![](Resources/PerSchoolSummerybefRepeating.PNG)
+  
    Afetr comparing above reports we can see thomas High school's Passing Math%,Passing Reading% & Overall Passing % significantle increased.
    
-   - Passing Math% has been increased from 66.9% to 93%
+   - Passing Math% has been decreased  from 93% to 66.9%.
    
-   - Passing Reading % has been increased from 69.6% to 97%
+   - Passing Reading % has been decreased from 97% to 69.6%.
    
-   - Overall PAssing % has been increased from 65.07 % to 90
+   - Overall PAssing % has been decreased from 90% to 65.07 %.
+
+ Using loc I seperated Thoimas High School  10th-12th grade students ,then using that dataframe did further calculations
+ 
+ ![](Resources/THS10to12.PNG)
+ 
+Results of that I got   following school summery report:
+
+ ![](Resources/PerSchoolSummeryaftRepeating)
+ 
+ comparing above three reports we can see that before removing 9th grade records & replacing with Nan & only considering Thomas High School 10 to 12 grades received reports has almost same figures.
+ 
 
  - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
  
