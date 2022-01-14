@@ -98,6 +98,7 @@ but average scores and precentage wise figures has been reduced for Thomas High 
      
   - Scores by school spending
    If we consider before formating dataframes for scores by school spending,In $630-$644 group we can see slight difference in all scores and precentages.
+   But after formating dataframes both has same figures.
    
     - Before replacing Thomas High School Records : 
     
@@ -108,4 +109,12 @@ but average scores and precentage wise figures has been reduced for Thomas High 
      ![](Resources/spendingsummeryafterformat.PNG)
  
   - Scores by school size
+   
+    - Before replacing 9th Grade scores,Scores by school size
+   
+     ![](Resources/schoolSizeSummerybef.PNG)
+     
+    - After replacing 9th Grade scores,Scores by school size
+
+      ![](Resources/schoolSizeSummeryaft.PNG)
   - Scores by school type
