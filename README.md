@@ -44,5 +44,5 @@ After replacing math and reading scores, I repeated the school district analysis
 
  - School Summery Report before removing Thomas High School 9th grade records
  
- ![](Resources/PerSchoolSummerybefRepeating.png)
+ ![](Resources/PerSchoolSummerybefRepeating.PNG)
    
