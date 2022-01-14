@@ -42,7 +42,10 @@ After replacing math and reading scores, I repeated the school district analysis
 
 - How is the school summary affected?
 
- - School Summery Report before removing Thomas High School 9th grade records
+  - School Summery Report before removing Thomas High School 9th grade records
  
- ![](Resources/PerSchoolSummerybefRepeating.PNG)
+  ![](Resources/PerSchoolSummerybefRepeating.PNG)
    
+ - School Summery Report after removing Thomas High School 9th grade records
+ 
+   ![](Resources/PerSchoolSummeryaftRepeating)
