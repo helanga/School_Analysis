@@ -76,16 +76,36 @@ but average scores and precentage wise figures has been reduced for Thomas High 
   
     - Math Score by Grade
     
-      Before & After replacing 9th Grade scores Math Scores :
+      Before replacing 9th Grade scores Math Scores :
       
-     ![](Resources/MathScorebyGradebefore.PNG)   ![](Resources/mathScorebyGradeafter.PNG)
+      ![](Resources/MathScorebyGradebefore.PNG)   
+     
+      After replacing 9th Grade scores Math Scores :
+     
+      ![](Resources/mathScorebyGradeafter.PNG)
     
     - Reading Score by Grade
     
-    ![](Resources/ReadingScorebyGradebefore.PNG)![](Resources/ReadingScorebyGradeafter.PNG)
+     Before replacing 9th Grade scores Reading Scores :
+    
+     ![](Resources/ReadingScorebyGradebefore.PNG)
+    
+     After replacing 9th Grade scores Reading Scores :
+    
+    ![](Resources/ReadingScorebyGradeafter.PNG)
+    
+    According to the above figures For Thomas High School MAth & Reading  score it shows "nan" ,other than that there is no difference
      
   - Scores by school spending
-
+   If we consider before formating dataframes for scores by school spending,In $630-$644 group we can see slight difference in all scores and precentages.
+   
+    - Before replacing Thomas High School Records : 
+    
+     ![](Resources/spendingsummerybefformat.PNG)
+     
+    - After replacing Thomas High School Records :
+    
+     ![](Resources/spendingsummeryafterformat.PNG)
  
   - Scores by school size
   - Scores by school type
