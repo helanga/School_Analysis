@@ -66,7 +66,7 @@ In this analyssis ,Before replacing 9th grade Records Analysis is in code "PyCit
  
 Results of that I got   following school summery report:
 
- ![](Resources/PerSchoolSummeryaftRepeating)
+ ![](Resources/thomas%20high%20school10to12.PNG)
  
  comparing above three reports we can see that before removing 9th grade records & replacing with Nan & only considering Thomas High School 10 to 12 grades received reports has almost same figures.
  
