@@ -70,4 +70,11 @@ After replacing math and reading scores, I repeated the school district analysis
    - considering above figures we can say that after removing Thomas high school 9 th grade records still it's second place out of top 5 achools.
 but average scores and precentage wise figures has been reduced for Thomas High School.
 
-   
+- How does replacing the ninth-grade scores affect the following:  
+
+  - Math and reading scores by grade
+  
+    - Math Score by Grade
+  - Scores by school spending
+  - Scores by school size
+  - Scores by school type
