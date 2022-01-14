@@ -28,7 +28,7 @@ Maria requested me to replace the math and reading scores for Thomas High School
 After replacing math and reading scores, I repeated the school district analysis that I did earlier and wrote a report to describe how these changes affected the overall analysis.
 
 ## Results
-
+In this analyssis ,Before replacing 9th grade Records Analysis is in code "PyCitySchools.ipynb" and After replacing code is in PyCitySchools_challenge.ipnyb"
 - How is the district summary affected?
 
   - Before Removing Thomas High School 9th grade records District Summery Report:
