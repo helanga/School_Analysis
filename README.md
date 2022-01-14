@@ -110,11 +110,11 @@ but average scores and precentage wise figures has been reduced for Thomas High 
  
   - Scores by school size
    
-    - Before replacing 9th Grade scores,Scores by school size
+    - Before replacing 9th Grade scores
    
      ![](Resources/schoolSizeSummerybef.PNG)
      
-    - After replacing 9th Grade scores,Scores by school size
+    - After replacing 9th Grade scores
 
       ![](Resources/schoolSizeSummeryaft.PNG)
   - Scores by school type
