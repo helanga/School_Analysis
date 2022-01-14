@@ -42,13 +42,16 @@ In this analyssis ,Before replacing 9th grade Records Analysis is in code "PyCit
 
 - How is the school summary affected?
 
+  - school summery  report before replacing  reading and math scores for the ninth grade at Thomas High School .
+  
+  ![](Resources/HighstPerSchoolsbefRepeat.PNG)
+  
   -  school summery  after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
  
   ![](Resources/PerSchoolSummerybefRepeating.PNG)
   
  - If comparing above two reports we can see there is significant derop in thomas High school's Passing Math%,Passing Reading% & Overall Passing precentages.
  
-  
    Afetr comparing above reports we can see thomas High school's Passing Math%,Passing Reading% & Overall Passing % significantle increased.
    
    - Passing Math% has been decreased  from 93% to 66.9%.
