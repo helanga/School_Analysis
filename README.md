@@ -48,4 +48,11 @@ After replacing math and reading scores, I repeated the school district analysis
    
  - School Summery Report after removing Thomas High School 9th grade records
  
-   ![](Resources/PerSchoolSummeryaftRepeating)
+   ![](Resources/PerSchoolSummeryaftRepeating.PNG)
+   Afetr comparing above reports we can see thomas High school's Passing Math%,Passing Reading% & Overall Passing % significantle increased.
+   
+   - Passing Math% has been increased from 66.9% to 93%
+   
+   - Passing Reading % has been increased from 69.6% to 97%
+   
+   - Overall PAssing % has been increased from 65.07 % to 90%
