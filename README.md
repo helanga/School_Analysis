@@ -55,4 +55,15 @@ After replacing math and reading scores, I repeated the school district analysis
    
    - Passing Reading % has been increased from 69.6% to 97%
    
-   - Overall PAssing % has been increased from 65.07 % to 90%
+   - Overall PAssing % has been increased from 65.07 % to 90
+
+ - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+  - Top Perfoming Schools Report before removing Thomas High School 9th grade records
+   
+   ![](Resources/HighstPerSchoolsbefRepeat.PNG)
+   
+  - Top Perfoming Schools Report after removing Thomas High School 9th grade records
+   
+    ![](Resources/HighstPerSchoolsbefRepeat.PNG)
+   
+   
