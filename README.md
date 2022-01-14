@@ -38,4 +38,11 @@ After replacing math and reading scores, I repeated the school district analysis
    
    ![](Resources/Repeated_District_summery.PNG)
    
-  
+   - considering above reports we can say it didn't effected for "Average Math Score" and "Average Reading Score". Pasing math % and PAssing Reading % has reduced .1%. And Overall Passing Precentage reduced by .1%
+
+- How is the school summary affected?
+
+ - School Summery Report before removing Thomas High School 9th grade records
+ 
+ ![](Resources/PerSchoolSummerybefRepeating.png)
+   
