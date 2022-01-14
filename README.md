@@ -117,4 +117,11 @@ but average scores and precentage wise figures has been reduced for Thomas High 
     - After replacing 9th Grade scores
 
       ![](Resources/schoolSizeSummeryaft.PNG)
+  
   - Scores by school type
+  
+    - Before replacing 9th Grade scores
+    ![](Resources/BefSchooltype.PNG)
+    
+    - After replacing 9th Grade scores
+   ![](Resources/AftSchooltype.PNG)
