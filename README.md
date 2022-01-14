@@ -44,11 +44,11 @@ In this analyssis ,Before replacing 9th grade Records Analysis is in code "PyCit
 
   - School Summery Report before removing Thomas High School 9th grade records
  
-  ![](Resources/PerSchoolSummerybefRepeating.PNG)
-   
+  ![](Resources/PerSchoolSummeryaftRepeating.PNG)
+  
  - School Summery Report after removing Thomas High School 9th grade records
  
-   ![](Resources/PerSchoolSummeryaftRepeating.PNG)
+   ![](Resources/PerSchoolSummerybefRepeating.PNG)
    Afetr comparing above reports we can see thomas High school's Passing Math%,Passing Reading% & Overall Passing % significantle increased.
    
    - Passing Math% has been increased from 66.9% to 93%
@@ -125,3 +125,14 @@ but average scores and precentage wise figures has been reduced for Thomas High 
     
     - After replacing 9th Grade scores
    ![](Resources/AftSchooltype.PNG)
+
+  As Thomas High School is Carter school ,we can see significant drop in charter school Passing Math,Passing REading & Overall Passing precentages.
+  
+## Summery
+ 1) If we concider Scores by school type we can see charter schools Passing Math,Passing Reading,Overall Passing precentages has dropped 3,4%
+ 
+ 2) Math and Reading scores by grade for Thomas High Schools 9th grade shows "Nan" for thomas high school after replacing the 9th grade records
+ 
+ 3) If we concider top performing schools report,after replacing the records also thomas High School is still  2 nd place 
+
+ 4) If we consider school summery reports,After replacing 9th grade records precentages for Passing math,Passing Reading & Overall Passing has significant drop,but after calculating precentages only for 10th to 12 th grade ,its like same
