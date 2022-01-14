@@ -75,6 +75,11 @@ but average scores and precentage wise figures has been reduced for Thomas High 
   - Math and reading scores by grade
   
     - Math Score by Grade
+    
+      Before replacing 9th Grade scores Math Score :
+      
+     ![](Resources/MathScorebyGradebefore.PNG)
+     
   - Scores by school spending
   - Scores by school size
   - Scores by school type
