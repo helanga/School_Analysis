@@ -141,12 +141,12 @@ The school summary report considering 10th to 12th Garde students of Thomas High
     - After replacing 9th Grade scores
    ![](Resources/AftSchooltype.PNG)
 
-  As Thomas High School is Carter school, there is a considerable drop in charter school Passing Math, Passing REading & Overall Passing precentages.
+  As Thomas High School is Carter school, there is a considerable drop in charter school Passing Math, Passing Reading & Overall Passing precentages.
   
 ## Summery
  1) If we concider Scores by school type we can see charter schools Passing Math,Passing Reading,Overall Passing precentages has dropped 3,4%
  
- 2) Math and Reading scores by grade for Thomas High Schools 9th grade shows "Nan" for thomas high school after replacing the 9th grade records
+ 2) In scores by school spending,In $630-$644 group we can see slight difference in all scores and precentages.
  
  3) If we concider top performing schools report,after replacing the records also thomas High School is still  2 nd place 
 
