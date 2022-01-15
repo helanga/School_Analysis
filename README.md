@@ -66,11 +66,11 @@ The original analysis I did is on Jupiter Noteboob file "PyCitySchools.ipynb" an
  
  ![](Resources/THS10to12.PNG)
  
-The school summery report considering 10th to 12th Garde students of Thomas High School
+The school summary report considering 10th to 12th Garde students of Thomas High School
 
  ![](Resources/Thomas%20high%20school1012.PNG)
  
- Comparing above three reports we can see that the values/figures for Thomas High School on the original report and the report gerated for 10th to 12th gardes bare almost same
+ - Comparing above three reports we can see that the values/figures for Thomas High School on the original report and the report gerated for 10th to 12th gardes bare almost same
  
 
  - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
@@ -83,8 +83,7 @@ The school summery report considering 10th to 12th Garde students of Thomas High
    
     ![](Resources/HighstPerSchoolsaftRepeat.PNG)
    
-   - considering above figures we can say that after removing Thomas high school 9 th grade records still it's second place out of top 5 achools.
-but average scores and precentage wise figures has been reduced for Thomas High School.
+   - considering above figures we can say that after removing Thomas high school 9 th grade records still it is on #2 on top 5 schools. But average scores and precentage wise figures has been reduced for Thomas High School.
 
 - How does replacing the ninth-grade scores affect the following:  
 
@@ -110,10 +109,10 @@ but average scores and precentage wise figures has been reduced for Thomas High 
     
     ![](Resources/ReadingScorebyGradeafter.PNG)
     
-    According to the above figures For Thomas High School MAth & Reading  score it shows "nan" ,other than that there is no difference
+    According to the above figures For Thomas High School Math & Reading  score it shows "nan" ,other than that there is no significant difference on the scores. 
      
   - Scores by school spending
-   If we consider before formating dataframes for scores by school spending,In $630-$644 group we can see slight difference in all scores and precentages.
+   If we consider before formating dataframes for scores by school spending, In $630-$644 group we can see slight difference in all scores and precentages.
    But after formating dataframes both has same figures.
    
     - Before replacing Thomas High School Records : 
@@ -125,7 +124,7 @@ but average scores and precentage wise figures has been reduced for Thomas High 
      ![](Resources/spendingsummeryafterformat.PNG)
  
   - Scores by school size
-   
+   Middle size school bucet has miner difference
     - Before replacing 9th Grade scores
    
      ![](Resources/schoolSizeSummerybef.PNG)
@@ -142,7 +141,7 @@ but average scores and precentage wise figures has been reduced for Thomas High 
     - After replacing 9th Grade scores
    ![](Resources/AftSchooltype.PNG)
 
-  As Thomas High School is Carter school ,we can see significant drop in charter school Passing Math,Passing REading & Overall Passing precentages.
+  As Thomas High School is Carter school, there is a considerable drop in charter school Passing Math, Passing REading & Overall Passing precentages.
   
 ## Summery
  1) If we concider Scores by school type we can see charter schools Passing Math,Passing Reading,Overall Passing precentages has dropped 3,4%
