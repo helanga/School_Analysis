@@ -56,20 +56,21 @@ The original analysis I did is on Jupiter Noteboob file "PyCitySchools.ipynb" an
    - Passing Math% has been dropped  from 93% to 66.9%.
    
    - Passing Reading % has been dropped from 97% to 69.6%.
+ 
    - Overall PAssing % has been dropped from 90% to 65.07 %.
    
  - The significant change observved here because the 9th garde student count has been considered in the analysis even though the scores has been replaced with NaNs.   
    
 
- Using loc I seperated Thoimas High School  10th-12th grade students ,then using that dataframe did further calculations
+ Using loc, I extracted 10th to 12th garde students data of Thomas High School into seseperate dataframe and it is being used for further calculations.
  
  ![](Resources/THS10to12.PNG)
  
-Results of that I got   following school summery report:
+The school summery report considering 10th to 12th Garde students of Thomas High School
 
  ![](Resources/Thomas%20high%20school1012.PNG)
  
- comparing above three reports we can see that before removing 9th grade records & replacing with Nan & only considering Thomas High School 10 to 12 grades received reports has almost same figures.
+ Comparing above three reports we can see that the values/figures for Thomas High School on the original report and the report gerated for 10th to 12th gardes bare almost same
  
 
  - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
