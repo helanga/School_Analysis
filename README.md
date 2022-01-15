@@ -39,27 +39,27 @@ The original analysis I did is on Jupiter Noteboob file "PyCitySchools.ipynb" an
    
    ![](Resources/Repeated_District_summery.PNG)
    
-   - Considering above two reports, replacing 9th Grade Math and Reading data has been effected to Average Math Score, % Passing Math and % Pass Reading by reducing there values from 0.1, 0.2 and 0.3 respectively comparatively to the originaly analysis. But, it did not effect to the Average Reading Score.    
+   - Considering above two reports, replacing 9th Grade Math and Reading data has been affected to Average Math Score, % Passing Math and % Pass Reading by reducing there values from 0.1, 0.2 and 0.3 respectively comparatively to the originaly analysis. But, it did not affect to the Average Reading Score.    
 
 - How is the school summary affected?
 
-  - school summery  report before replacing  reading and math scores for the ninth grade at Thomas High School .
+  - School summery  report for the original data set (before replacing 9th Grade Data with NaNs) at Thomas High School.
   
   ![](Resources/HighstPerSchoolsbefRepeat.PNG)
   
-  -  school summery  after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+  -  School summery report after replacing 9th grade Math and Reading scores with NaNs of Thomas High School.
  
   ![](Resources/PerSchoolSummerybefRepeating.PNG)
   
- - If comparing above two reports we can see there is significant derop in thomas High school's Passing Math%,Passing Reading% & Overall Passing precentages.
- 
-   Afetr comparing above reports we can see thomas High school's Passing Math%,Passing Reading% & Overall Passing % significantle increased.
+ - Comparing above two reports, we can see that there is a significant drop  for Thomas High school on  Passing Math%, Passing Reading% and Overall Passing%.
+    
+   - Passing Math% has been dropped  from 93% to 66.9%.
    
-   - Passing Math% has been decreased  from 93% to 66.9%.
+   - Passing Reading % has been dropped from 97% to 69.6%.
+   - Overall PAssing % has been dropped from 90% to 65.07 %.
    
-   - Passing Reading % has been decreased from 97% to 69.6%.
+ - The significant change observved here because the 9th garde student count has been considered in the analysis even though the scores has been replaced with NaNs.   
    
-   - Overall PAssing % has been decreased from 90% to 65.07 %.
 
  Using loc I seperated Thoimas High School  10th-12th grade students ,then using that dataframe did further calculations
  
