@@ -148,6 +148,6 @@ The school summary report considering 10th to 12th Garde students of Thomas High
  
  2) In scores by school spending,In $630-$644 group we can see slight difference in all scores and precentages.
  
- 3) If we concider top performing schools report,after replacing the records also thomas High School is still  2 nd place 
+ 3) comparing before and after school summery reports, we can see that there is a significant drop for Thomas High school on Passing Math%, Passing Reading% and Overall Passing%.
 
- 4) If we consider school summery reports,After replacing 9th grade records precentages for Passing math,Passing Reading & Overall Passing has significant drop,but after calculating precentages only for 10th to 12 th grade ,its like same
+ 4)  If we concider scores by school size report, Middle size school bucket has miner difference
