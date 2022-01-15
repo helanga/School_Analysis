@@ -39,7 +39,7 @@ The original analysis I did is on Jupiter Noteboob file "PyCitySchools.ipynb" an
    
    ![](Resources/Repeated_District_summery.PNG)
    
-   - considering above reports we can say it didn't effected for "Average Math Score" and "Average Reading Score". Pasing math % and PAssing Reading % has reduced .1%. And Overall Passing Precentage reduced by .1%
+   - Considering above two reports, replacing 9th Grade Math and Reading data has been effected to Average Math Score, % Passing Math and % Pass Reading by reducing there values from 0.1, 0.2 and 0.3 respectively comparatively to the originaly analysis. But, it did not effect to the Average Reading Score.    
 
 - How is the school summary affected?
 
